@@ -1,2 +1,3 @@
 # hello-world
-Mahir is an idiot
+Hello world
+
